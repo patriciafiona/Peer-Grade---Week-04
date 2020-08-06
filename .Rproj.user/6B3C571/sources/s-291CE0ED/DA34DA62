@@ -1,0 +1,25 @@
+{
+    "id": "DA34DA62",
+    "path": "D:/Project/Coursera/6. Data Science (Johns Hopkins University)/03. Getting and Cleaning Data/Week 04/Assignment/Peer Grade - Week 04/run_analysis.R",
+    "project_path": "run_analysis.R",
+    "type": "r_source",
+    "hash": "3709569870",
+    "contents": "",
+    "dirty": false,
+    "created": 1596696513151.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "103,57",
+        "scrollLine": "90"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1596696548,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1596696548970,
+    "read_only": false,
+    "read_only_alternatives": []
+}
